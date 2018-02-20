@@ -1,0 +1,4 @@
+Hi,
+This is a test message.
+I am writing this to test committing to my git repository.
+Thanks
